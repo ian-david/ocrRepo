@@ -11,4 +11,4 @@ This OCR has a frontend interface where you feed it an image, and returns the st
     3. set FLASK_ENV=development
     4. python run.py
     
- Open 127.0.0.1:5000/upload-image to use the OCR
+- Open the locahost, followed by /upload-image, just like this "127.0.0.1:5000/upload-image" to use the OCR
